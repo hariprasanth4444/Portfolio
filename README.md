@@ -7,3 +7,6 @@
 
 # Mobile View
 <p align="center"><img src="https://user-images.githubusercontent.com/56925957/205481773-e89c7974-6517-4320-ad0e-888cbd44c074.png" height="550px" width="350px"> <img src="https://user-images.githubusercontent.com/56925957/205481785-86302e68-1c0f-48d2-8db3-9c1c9bc1646a.png" height="550px" width="350px"></p>
+
+# footer
+<p align="center"><img src="https://user-images.githubusercontent.com/56925957/205481974-a1de4abc-6720-4d48-aab7-2824aaa726a1.png"></p>
